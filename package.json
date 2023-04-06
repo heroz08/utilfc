@@ -1,6 +1,6 @@
 {
   "name": "utilfc",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "utilfuncs",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "moment": "^2.29.1"
+    "dayjs": "^1.11.7",
+    "moment": "^2.29.4"
   }
 }
